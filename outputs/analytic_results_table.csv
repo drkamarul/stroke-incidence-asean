@@ -1,0 +1,18 @@
+block,label,cases,population,incidence_per_100k,ci_lo,ci_hi,source_note
+malaysia_by_year,2016,45981,30258000,151.96,150.58,153.36,Primary surveillance data (KIM dataset)
+malaysia_by_year,2017,46999,30692595,153.13,151.75,154.52,Primary surveillance data (KIM dataset)
+malaysia_by_year,2018,47914,31121701,153.96,152.59,155.34,Primary surveillance data (KIM dataset)
+malaysia_by_year,2019,48875,31546724,154.93,153.56,156.31,Primary surveillance data (KIM dataset)
+malaysia_by_year,2020,49903,31960196,156.14,154.78,157.52,Primary surveillance data (KIM dataset)
+malaysia_by_year,2021,50977,32468300,157.01,155.65,158.37,Primary surveillance data (KIM dataset)
+malaysia_by_year,2022,51928,32959271,157.55,156.2,158.91,Primary surveillance data (KIM dataset)
+malaysia_by_year,2023,53090,33337388,159.25,157.9,160.61,Primary surveillance data (KIM dataset)
+malaysia_by_year,2024,54057,33794545,159.96,158.62,161.31,Primary surveillance data (KIM dataset)
+malaysia_by_year,2025,55130,34163893,161.37,160.03,162.72,Primary surveillance data (KIM dataset)
+malaysia_by_year,2026,56515,34785153,162.47,161.14,163.81,Primary surveillance data (KIM dataset)
+asean_comparison,Malaysia (this study),NA,NA,162.47,161.14,163.81,"Primary surveillance data, KIM dataset 2026"
+asean_comparison,Singapore,NA,NA,180,NA,NA,"Singapore Stroke Registry (NRDO), recent annual report"
+asean_comparison,Indonesia,NA,NA,193,NA,NA,Riskesdas 2018 / Indonesian MoH
+asean_comparison,Thailand,NA,NA,187,NA,NA,Thai National Stroke Registry / Suwanwela 2014
+asean_comparison,Vietnam,NA,NA,250,NA,NA,"Tran et al., INTERSTROKE Asia regional estimates"
+asean_comparison,Philippines,NA,NA,486,NA,NA,Navarro 2014 / Philippines DOH burden estimates
